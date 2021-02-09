@@ -1,3 +1,3 @@
 # usc_archi_thesis
 USC BS-Architecture 5th year thesis project<br/>
-**This repository is for back up purposes**
+2013-2014
